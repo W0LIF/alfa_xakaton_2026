@@ -225,3 +225,8 @@ __marimo__/
 .pytest_cashe/
 *.log
 .vscode
+
+
+# БД и индексы
+data/insights.db
+data/bm25_index.pkl
