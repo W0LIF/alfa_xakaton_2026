@@ -1,0 +1,14 @@
+{
+  "A": {
+    "client_id": "U_000001",
+    "scenario": "interest_rate"
+  },
+  "B": {
+    "client_id": "U_000002",
+    "scenario": "fx_export"
+  },
+  "C": {
+    "client_id": "U_000003",
+    "scenario": "logistics"
+  }
+}
